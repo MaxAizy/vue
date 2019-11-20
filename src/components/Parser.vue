@@ -29,6 +29,7 @@ export default {
       {
         headers: {
           "Access-Control-Allow-Origin": "http://localhost:8080"
+          //CORS
         }
       },
       function(err, res) {
